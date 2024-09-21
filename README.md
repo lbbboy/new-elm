@@ -6,3 +6,6 @@
 需要修改青龙配置文件 添加txt格式
 RepoFileExtensions="js mjs py pyc txt"
 接口在 xsign_host.txt 进行修改
+
+# 狗东上车地址
+- haocat.cf
